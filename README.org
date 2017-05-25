@@ -1,0 +1,4 @@
+* Description
+
+This is a repository containing a number of theorems from group theory
+proven in Coq.
